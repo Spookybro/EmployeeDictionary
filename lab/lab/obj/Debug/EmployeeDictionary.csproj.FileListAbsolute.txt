@@ -1,0 +1,7 @@
+C:\Users\welkob74\source\repos\lab\lab\bin\Debug\lab.exe.config
+C:\Users\welkob74\source\repos\lab\lab\bin\Debug\lab.exe
+C:\Users\welkob74\source\repos\lab\lab\bin\Debug\lab.pdb
+C:\Users\welkob74\source\repos\lab\lab\obj\Debug\EmployeeDictionary.csprojResolveAssemblyReference.cache
+C:\Users\welkob74\source\repos\lab\lab\obj\Debug\EmployeeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\welkob74\source\repos\lab\lab\obj\Debug\lab.exe
+C:\Users\welkob74\source\repos\lab\lab\obj\Debug\lab.pdb
